@@ -1,0 +1,50 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+.heading{
+    margin-top: 10px;
+}
+.heading h2{
+    text-align: center;
+    margin-bottom: 3%;
+}
+.heading a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+    font-weight: 200;
+    padding: 15px;
+    background-color: bisque;
+    margin-bottom: 50px;
+    padding-bottom: 10px;
+    margin-left: 45%;
+}
+.heading a:hover{
+    background: black;
+    color: aliceblue;
+    transition: 0.6s;
+}
+
+table, th, td {
+    margin-top: 3%;
+    margin-left: 90px;
+    border: 1px solid;
+    border-collapse: collapse;
+    padding: 10px;
+  }
+  .table a{
+    color: blue;
+    text-decoration:none;
+    
+  }
+  .table a:hover{
+    color: black;
+    background: yellowgreen;
+  }
+  body{
+    background-color: aliceblue;
+  }
